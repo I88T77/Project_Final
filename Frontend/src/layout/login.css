@@ -1,0 +1,36 @@
+h1{
+    font-family: sans-serif;
+    margin-top: 100px;
+    margin-left: 100px;
+    
+}
+#email{
+    width: 25%;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.email1{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+.signin{
+    padding: 2px 158px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(66, 61, 61);
+}
+p{
+    margin-left: 260px;
+    margin-top: 5px;
+}
+a{
+    text-decoration: none;
+}
+.form{
+    margin-left: 100px;
+    margin-top: 100px;
+    border:2px solid black;
+    width:40%;
+}

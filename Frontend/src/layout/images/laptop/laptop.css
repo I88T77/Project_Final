@@ -1,0 +1,37 @@
+.cartlaptop1{
+    display: flex;
+    border: 2px hidden black;
+    height: 350px;
+    width:100%;
+}
+.cartlaptop2{
+    display: flex;
+    border:2px hidden black;
+    height: 350px;
+    width:100%;
+}
+div div{
+    border: 1px hidden black;
+    width: 35%;
+}
+h3{
+    text-align: center;
+}
+img{
+    margin-left: 120px;
+    width: 40%;
+}
+i{
+    margin-left: 100px;
+    
+}
+p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.unactive{
+    visibility: hidden;
+}
+.show_cart:hover .unactive{
+    visibility:visible;
+}
